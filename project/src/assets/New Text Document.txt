@@ -1,0 +1,13 @@
+npm i -g firbase-tools
+
+npm init
+firebase login
+firebase init
+y
+hosting
+y
+y
+build
+n
+n
+firebase deploy

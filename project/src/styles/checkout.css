@@ -1,0 +1,50 @@
+/* Right Side Section */
+
+.colm2 {
+  background: var(--primary-color);
+  color: white;
+  font-weight: 500;
+  padding: 20px;
+  border-radius: 5px;
+  font-size: 0.9rem;
+  width: 100%;
+}
+
+.freeShiping {
+  font-size: 11px;
+}
+
+.divsSpan {
+  display: flex;
+  justify-content: space-between;
+}
+
+.totalDivsSpan {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 1.3rem;
+}
+
+.checkout_btn {
+  background: #fff;
+  width: 100%;
+  color: var(--primary-color);
+  font-weight: 600;
+}
+
+
+
+
+/* Left Side Section */
+
+.input_info {
+  outline: none;
+  box-shadow: none;
+
+}
+
+.input_info:focus {
+  outline: none;
+  box-shadow: none;
+}

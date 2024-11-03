@@ -1,0 +1,20 @@
+.auth_form {
+  background: #FC8A06;
+  padding: 2rem;
+  border-radius: 1rem;
+}
+
+.auth_container {
+  margin-top: 60px;
+}
+
+.auth_btn {
+  width: 50%;
+  padding: 0.8rem;
+  border-radius: 10px;
+  background: var(--primary-color);
+  color: white;
+  font-weight: 600;
+  border: none;
+  outline: none;
+}
